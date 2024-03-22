@@ -30,7 +30,7 @@ Diese haben immer ein Abschirmblech verbaut und haben 4MByte(32Mbit) Ram!
 In der Regel haben D1 minis oder NodeMcu Platinen das ESP12 Modul verbaut!
 Diese funktionieren in der Regel auch gut aber die usbserial programmiereinrichtung 
 die mit auf der platine zum ESP12 Modul verbaut wird , ist teils oer meist störanfällig!
-Diese z.B. ch340 verbauten IC sind mit dem rx/tx des esp8266 im ESP12 Modul verbunden.
+Diese z.B. ch340 verbauten IC sind mit dem rx/tx des esp8266 im ESP12 Modul verbunden
 Die Entkopplung von RX/TX ist den D1/Node Platinen Herstellern nicht immer gelungen!
 
 
